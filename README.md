@@ -6,12 +6,12 @@ I'm a fullstack web-developer from Deesa, Gujarat. I am a Master Of Computer App
 
 [![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prajwal.iar/)](https://instagram.com/vikasprajapatiofficial)
 [![Gmail Badge](https://img.shields.io/badge/-vikasprajapatiofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikasprajapatiofficial@gmail.com)](mailto:vikasprajapatiofficial@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/vikasprajapatiofficial/)
+[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikasprajapatiofficial/)](https://www.linkedin.com/in/vikasprajapatiofficial/)
 [![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/vikasprajapatiofficial/ "Contact on Telegram")
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [vikasprajapatiofficial.com](https://raiprajwal.com)
+- My Personal Website :yum: [vikasprajapatiofficial.com](https://vikasprajapatiofficial.com)
 
 Here are some ideas to get you started:
 
